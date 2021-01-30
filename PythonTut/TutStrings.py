@@ -1,0 +1,5 @@
+directors = ("Tarantino\nDelToro\nKojima")
+print(len(directors))
+print(directors[0])
+print(directors.index("D"))
+print(directors.replace("Kojima","George Lucas"))
